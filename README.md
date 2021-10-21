@@ -3,24 +3,10 @@
 - 💞️ I’m looking to collaborate on all Data Science challenges
 - 📫 How to reach me srikanth.ayithy@gmail.com or 
 
-✅ Six+ years of experience in a Market Research/Media projects lead role
-✅ Designed studies with sample size more than 50K
-✅ Designed questionnaires for Media measurement
-✅ Designed and implemented weighting scheme for large studies
-✅ Performed multivariate analysis and knowledge of associated platforms e.g R / Python /SPSS
-✅ Developed codes which can do multiple Statistical analysis runs with run parameters being defined externally
-✅ Deep understanding of research methods and can customize and design solutions to meet the client requirements on audience measurement systems
-✅ In-depth understanding on data of Census India, IRS, BARC India, etc.
-✅ Creative thinking to approach business problems and convert them into accurate data models
-✅ Confident & credibility to talk to a wide range of decision influencers.
-✅ Design and monitor large establishment studies related to audience measurement systems
-✅ Data mining using state-of-the-art methods
-✅ Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality
-✅ Translate unstructured business problems into well-defined machine learning projects
-✅ Responsible for all project deliveries by the team along with coaching and training others on the team.
-✅ Team Management (including day-today management, check-ins, one to ones, year-end admin. Etc.)
-✅ Managing and working collaboratively with a team of 3-5 junior consultants and solutions experts
-✅ Work with cross-functional teams and also focus mainly on independent projects.
+- Being a Senior Audience Measurement Analyst, I have **7.5** years of experience executing data-driven solutions in Audience measurement system, market research methodologies, data science projects, interpretation and visualization. Furnish insights, analytics to advance opportunity identification and process reengineering with proficiency in predictive modelling, data mining algorithms as well as scripting languages such as Python and R. Capable of creating developing, testing, and deploying highly adaptive diverse services to translate business and functional problems into considerable deliverables. Thank you for your time, I look forward to speaking with you about my in-depth experience and passion for all aspects.
+
+- Type of research projects handled- Market Research and Analytics projects such as Establishment survey sample designing, design the QC elements of filed work, Lead the Universe estimation studies, TV Viewership & Insights projects, identifying the drivers (Primary and Secondary control variables)  of TV viewership in India, Design at different suitable weighting/extrapolation schemers, TV Viewership panel queries resolution, Machine learning model development and Client work audit and review. These are some of the major projects I worked on, apart from many small sized projects.
+Let me know the further steps and if you need any more information.
 
 <!---
 srikanthayithy/srikanthayithy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
